@@ -1,0 +1,8 @@
+C:\Users\gomil\OneDrive\Desktop\Programacion II\ebrou\ebrou\bin\Debug\ebrou.exe.config
+C:\Users\gomil\OneDrive\Desktop\Programacion II\ebrou\ebrou\bin\Debug\ebrou.exe
+C:\Users\gomil\OneDrive\Desktop\Programacion II\ebrou\ebrou\bin\Debug\ebrou.pdb
+C:\Users\gomil\OneDrive\Desktop\Programacion II\ebrou\ebrou\obj\Debug\ebrou.csproj.AssemblyReference.cache
+C:\Users\gomil\OneDrive\Desktop\Programacion II\ebrou\ebrou\obj\Debug\ebrou.csproj.CoreCompileInputs.cache
+C:\Users\gomil\OneDrive\Desktop\Programacion II\ebrou\ebrou\obj\Debug\ebrou.exe
+C:\Users\gomil\OneDrive\Desktop\Programacion II\ebrou\ebrou\obj\Debug\ebrou.pdb
+C:\Users\gomil\OneDrive\Desktop\Programacion II\ebrou\ebrou\obj\Debug\ebrou.exe.config
