@@ -14,6 +14,9 @@ namespace ebrou
             //hola
             string mensaje = "Hola mundo";
 
+            string hola = "mundo"; 
+
+
             int op = -1;
             CuentaBancaria NuevaCuenta=null;
             do
